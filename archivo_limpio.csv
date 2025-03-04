@@ -1,0 +1,47 @@
+Gene(s),Protein change,Molecular consequence,Oncogenicity classification
+TP53,"T63fs, T102fs",frameshift variant,Oncogenic
+TP53,"N104fs, N224fs, N131fs, N263fs",frameshift variant,
+TP53,"Y168fs, Y195fs, Y327fs, Y288fs",frameshift variant,Likely oncogenic
+TP53,"L54fs, L93fs",frameshift variant,Likely oncogenic
+TP53,"M133K, M1K, M94K",missense variant|initiator_codon_variant|5 prime UTR variant,Likely oncogenic
+TP53,"N268fs, N229fs, N136fs, N109fs",frameshift variant,
+TP53,"D149Y, D242Y, D281Y, D122Y",missense variant,Likely oncogenic
+TP53,"P114fs, P153fs, P21fs",frameshift variant|5 prime UTR variant,Oncogenic
+TP53,"S127P, S88P",missense variant|5 prime UTR variant,Oncogenic
+TP53,"A120V, A159V, A27V",missense variant|5 prime UTR variant|non-coding transcript variant,Oncogenic
+TP53,"R170fs, R50fs, R77fs, R209fs",frameshift variant,Oncogenic
+TP53,"P118L, P211L, P250L, P91L",missense variant,Likely oncogenic
+TP53,"R174P, R213P, R81P, R54P",missense variant,Oncogenic
+TP53,"E153K, E246K, E285K, E126K",missense variant,Oncogenic
+TP53,"G134R, G266R, G227R, G107R",missense variant,Oncogenic
+TP53,"G113V, G206V, G245V, G86V",missense variant,Oncogenic
+TP53,"E154K, E247K, E286K, E127K",missense variant,Oncogenic
+TP53,"M105I, M198I, M237I, M78I",missense variant,Oncogenic
+TP53,"V134L, V173L, V41L, V14L",missense variant,Oncogenic
+TP53,"S109Y, S202Y, S241Y, S82Y",missense variant,Oncogenic
+TP53,"T125R, T86R",missense variant,Likely oncogenic
+TP53,"V140M, V233M, V272M, V113M",missense variant,Oncogenic
+TP53,"Y102H, Y195H, Y234H, Y75H",missense variant,Likely oncogenic
+TP53,"C102Y, C141Y, C9Y",missense variant|5 prime UTR variant,Oncogenic
+TP53,"G245C, G113C, G206C, G86C",missense variant,Oncogenic
+TP53,"G112S, G205S, G244S, G85S",missense variant,Oncogenic
+TP53,"H140Y, H179Y, H47Y, H20Y",missense variant,Oncogenic
+TP53,"R136G, R175G, R43G, R16G",missense variant,Oncogenic
+TP53,"G112D, G205D, G244D, G85D",missense variant,Oncogenic
+TP53,"K132R, K93R",missense variant|5 prime UTR variant|non-coding transcript variant,Likely oncogenic
+TP53,"V177M, V216M, V84M, V57M",missense variant,Oncogenic
+TP53,"I156T, I195T, I63T, I36T",missense variant,Oncogenic
+TP53,"G134E, G227E, G266E, G107E",missense variant,Oncogenic
+TP53,"C143Y, C236Y, C275Y, C116Y",missense variant,Oncogenic
+TP53,"P113L, P152L, P20L",missense variant|5 prime UTR variant,Oncogenic
+TP53,"R141L, R234L, R273L, R114L",missense variant,Oncogenic
+TP53,"C106Y, C199Y, C238Y, C79Y",missense variant,Likely oncogenic
+TP53,"S241F, S109F, S202F, S82F",missense variant,Oncogenic
+TP53,"R205C, R298C, R337C, R178C",missense variant|3 prime UTR variant,Oncogenic
+TP53,"Y181C, Y220C, Y88C, Y61C",missense variant,Oncogenic
+TP53,"R175H, R136H, R43H, R16H",missense variant,Oncogenic
+TP53,"R141C, R234C, R273C, R114C",missense variant,Oncogenic
+TP53,"R248W, R116W, R209W, R89W",missense variant,Oncogenic
+TP53,"R282W, R150W, R243W, R123W",missense variant,Oncogenic
+TP53,"R273H, R141H, R234H, R114H",missense variant,Oncogenic
+TP53,"R248Q, R116Q, R209Q, R89Q",missense variant,Oncogenic
