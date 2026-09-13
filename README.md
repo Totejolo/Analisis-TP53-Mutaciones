@@ -34,5 +34,3 @@ pip install pandas matplotlib seaborn networkx requests
 ## Data sources
 
 ClinVar for the variant records and STRING for the interaction network. Both public; no patient data is used.
-# TP53_Mutations_Oncogenesis
-Analysis of mutations in the TP53 gene and their impact on the protein-protein interaction network in oncogenesis.
